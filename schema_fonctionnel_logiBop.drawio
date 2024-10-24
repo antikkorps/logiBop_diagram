@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="5818" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="6591" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="60" width="500" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="JlcOlSUOv72aKDt4cfFE-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1890" y="400" width="1330" height="380" as="geometry" />
         </mxCell>
@@ -43,7 +40,7 @@
           <mxGeometry x="733.5" y="738" width="58" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-75" value="&lt;span&gt;L&#39;intégralité de l&#39;écosystème est déployé au sein du réseau MVO sur&amp;nbsp; Microsoft Azure&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="-60" y="430" width="360" height="42.5" as="geometry" />
+          <mxGeometry x="96" y="412.25" width="210" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-95" value="&lt;span&gt;Les relations avec la base de données de production se déroule dans le cadre d&#39;un virtual Private Network qui assure une encapsulation des données de production sur Azure. Ils&amp;nbsp;&lt;/span&gt;qui permettent de gérer granulairement l&#39;accès aux ressources" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="-539.5" y="460.5" width="449" height="79.5" as="geometry" />
@@ -227,10 +224,10 @@
           <mxGeometry x="-880" y="570" width="312.22" height="190" as="geometry" />
         </mxCell>
         <mxCell id="oSTg5xwtnezDUg6IkT8Y-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Le module SFTP est déjà existant et&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ne&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;nécessite aucune modification&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;supplémentaire&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="-970" y="1171" width="270" height="70" as="geometry" />
+          <mxGeometry x="-1130" y="1171" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oSTg5xwtnezDUg6IkT8Y-2" value="Le fichier est uploadé automatiquement par wraptor dans deux dossiers distincts du SFTP qui permettent un traitement automatisé par l&#39;application LOGIBOP" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="-1459" y="986.25" width="290" height="90" as="geometry" />
+          <mxGeometry x="-1485" y="981" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oSTg5xwtnezDUg6IkT8Y-3" value="Les fichiers sont téléchargés dans l&#39;écosystème Microsoft Azure par les routine automatisées des CRON JOBS afin de pouvoir être traités et injectés dans la base de données." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="-567.78" y="1030" width="368" height="90" as="geometry" />
@@ -238,8 +235,8 @@
         <mxCell id="oSTg5xwtnezDUg6IkT8Y-4" value="L&#39;upload des données depuis Optim se fait directement par un export des nouvelles lignes de la base de données dans le cadre d&#39;un VPN afin de maintenir l&#39;application LOGIBOP à jour. La connexion se fait en SSL" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="-539.75" y="721" width="269.5" height="106.5" as="geometry" />
         </mxCell>
-        <mxCell id="oSTg5xwtnezDUg6IkT8Y-7" value="WRAPTOR est déjà en place au sein du PSS et ne nécessite pas de modifications" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="-1810" y="548.5" width="320" height="40" as="geometry" />
+        <mxCell id="oSTg5xwtnezDUg6IkT8Y-7" value="WRAPTOR est déjà en place au sein du PSS et ne nécessite pas de modifications si ce n&#39;est le paramétrage des exports" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="-1830" y="530" width="320" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="oSTg5xwtnezDUg6IkT8Y-9" value="&lt;span&gt;La base de données SQL sert au fonctionnement du backend de LOGIBOP qui sert les données aux utilisateurs.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="500" y="830.25" width="250" height="69.75" as="geometry" />
@@ -383,11 +380,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-47" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oSTg5xwtnezDUg6IkT8Y-10">
-          <mxGeometry x="-0.1725" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oSTg5xwtnezDUg6IkT8Y-5" value="Les utilisateurs utilisent l&#39;application pour référencer les articles, les lieux de stockage et récupérer les compositions nécessaire à la préparation des interventions par le biais de PDA" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="Q-r5WbzmVcZyMv6zKtho-40" vertex="1">
           <mxGeometry y="116.5" width="280" height="90" as="geometry" />
         </mxCell>
@@ -418,24 +410,6 @@
         <mxCell id="Q-r5WbzmVcZyMv6zKtho-46" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;RDS&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-860" y="579.9982802547771" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-560" y="130" width="368.02000000000004" height="181" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-51">
-          <mxGeometry x="92.58000000000004" width="89.02" height="181" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-48" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-51">
-          <mxGeometry width="89.02" height="181" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-49" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-51">
-          <mxGeometry x="279" width="89.02" height="181" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-50" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-51">
-          <mxGeometry x="185.75" width="89.02" height="181" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-53" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;LOGIBOP MOBILE PDA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="60" width="250" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Q-r5WbzmVcZyMv6zKtho-55" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
           <mxGeometry x="-1325" y="396" width="200" height="134" as="geometry" />
         </mxCell>
@@ -457,20 +431,44 @@
             <mxPoint x="-810" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-63" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-244" y="60.001719745223" width="117.58000000000004" height="40" as="geometry" />
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-66" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.303;entryY=-0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q-r5WbzmVcZyMv6zKtho-52" target="JlcOlSUOv72aKDt4cfFE-29">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="10" y="220" as="sourcePoint" />
+            <mxPoint x="-50" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-67" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1060.0000000000002" y="96" width="500" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-67">
+          <mxGeometry width="500" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-51" value="" style="group" vertex="1" connectable="0" parent="Q-r5WbzmVcZyMv6zKtho-67">
+          <mxGeometry x="60" y="70" width="368.02000000000004" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-51">
+          <mxGeometry x="92.58000000000004" width="89.02" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-48" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-51">
+          <mxGeometry width="89.02" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-49" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-51">
+          <mxGeometry x="279" width="89.02" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-50" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-51">
+          <mxGeometry x="185.75" width="89.02" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-53" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;LOGIBOP MOBILE PDA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-67">
+          <mxGeometry width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-63" value="" style="group" vertex="1" connectable="0" parent="Q-r5WbzmVcZyMv6zKtho-67">
+          <mxGeometry x="376" y="0.001719745222999336" width="117.58000000000004" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q-r5WbzmVcZyMv6zKtho-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#82b366;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-63">
           <mxGeometry y="6.558280254776946" width="117.58" height="26.89" as="geometry" />
         </mxCell>
         <mxCell id="Q-r5WbzmVcZyMv6zKtho-65" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;STATUS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="Q-r5WbzmVcZyMv6zKtho-63">
           <mxGeometry x="8.785107692307747" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-66" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.601;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q-r5WbzmVcZyMv6zKtho-52" target="yIlqXNv4PA9Dnh1hxRCn-52">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="10" y="220" as="sourcePoint" />
-            <mxPoint x="110" y="120" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
