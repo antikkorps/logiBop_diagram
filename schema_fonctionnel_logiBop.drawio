@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="3810" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5818" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,9 +14,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1811" y="680.45" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-24" value="Virtual Private Network" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="556" width="50" height="28.499999999999996" as="geometry" />
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-33" value="Storage" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIiB2ZXJzaW9uPSIxLjEiIGlkPSJzdmc2NDIwMiIgaW5rc2NhcGU6dmVyc2lvbj0iMC45Mi4zICgyNDA1NTQ2LCAyMDE4LTAzLTExKSIgc29kaXBvZGk6ZG9jbmFtZT0iYXp1cmVfc3RvcmFnZV9henVyZV9maWxlcy5zdmciIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNzUuNTIgNjQuMzQiIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSI3NS41MTk5OTciIGhlaWdodD0iNjQuMzM5OTk2Ij48bWV0YWRhdGEgaWQ9Im1ldGFkYXRhMTg3OTUiPjxyZGY6UkRGPjxjYzpXb3JrIHJkZjphYm91dD0iIj48ZGM6Zm9ybWF0PmltYWdlL3N2Zyt4bWw8L2RjOmZvcm1hdD48ZGM6dHlwZSByZGY6cmVzb3VyY2U9Imh0dHA6Ly9wdXJsLm9yZy9kYy9kY21pdHlwZS9TdGlsbEltYWdlIi8+PGRjOnRpdGxlLz48L2NjOldvcms+PC9yZGY6UkRGPjwvbWV0YWRhdGE+PGRlZnMgaWQ9ImRlZnMxODc5MyIvPiYjeGE7PGZpbHRlciBpZD0iZmlsdGVyXzIiPiYjeGE7CTxmZUdhdXNzaWFuQmx1ciBpZD0iZmVHYXVzc2lhbkJsdXI2NDA5NSIgc3RkRGV2aWF0aW9uPSIyIi8+JiN4YTs8L2ZpbHRlcj4mI3hhOzxzb2RpcG9kaTpuYW1lZHZpZXcgYm9yZGVyY29sb3I9IiM2NjY2NjYiIGJvcmRlcm9wYWNpdHk9IjEiIGZpdC1tYXJnaW4tYm90dG9tPSIwIiBmaXQtbWFyZ2luLWxlZnQ9IjAiIGZpdC1tYXJnaW4tcmlnaHQ9IjAiIGZpdC1tYXJnaW4tdG9wPSIwIiBncmlkdG9sZXJhbmNlPSIxMCIgZ3VpZGV0b2xlcmFuY2U9IjEwIiBpZD0ibmFtZWR2aWV3NjQyMDQiIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9InN2ZzY0MjAyIiBpbmtzY2FwZTpjeD0iLTQwLjc1NzY0MiIgaW5rc2NhcGU6Y3k9IjE0LjI0NTcwNSIgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAiIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjEwMTciIGlua3NjYXBlOndpbmRvdy1tYXhpbWl6ZWQ9IjEiIGlua3NjYXBlOndpbmRvdy13aWR0aD0iMTkyMCIgaW5rc2NhcGU6d2luZG93LXg9Ii04IiBpbmtzY2FwZTp3aW5kb3cteT0iLTgiIGlua3NjYXBlOnpvb209IjMuNjYwMjg4NyIgb2JqZWN0dG9sZXJhbmNlPSIxMCIgcGFnZWNvbG9yPSIjZmZmZmZmIiBzaG93Z3JpZD0iZmFsc2UiPiYjeGE7CTwvc29kaXBvZGk6bmFtZWR2aWV3PiYjeGE7JiN4YTs8cGF0aCBpZD0icGF0aDY0MTA4IiBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiBzdHlsZT0iZmlsbDojYTBhMWEyIiBkPSJtIDAsNjEuNDggYyAwLDEuNTEgMS4wNiwyLjg2IDIuODcsMi44NiBoIDY5Ljc4IGMgMS41MSwwIDIuODcsLTEuMDUgMi44NywtMi44NiB2IC01MCBIIDAgWiIvPiYjeGE7JiN4YTs8cGF0aCBpZD0icGF0aDY0MTE2IiBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiBzdHlsZT0iZmlsbDojN2E3YTdhIiBkPSJNIDcyLjY1LDAgSCAyLjg3IEMgMS4wNiwwIDAsMS4zNSAwLDIuODcgdiA4LjYgSCA3NS41MiBWIDIuODcgQyA3NS41MiwxLjM1IDc0LjQ2LDAgNzIuNjUsMCBaIi8+JiN4YTsmI3hhOzxyZWN0IGlkPSJyZWN0NjQxMjQiIHg9IjI4LjM5OTk5NCIgeT0iMTYuNDU5OTk5IiBzdHlsZT0iZmlsbDojZmZmZmZmIiB3aWR0aD0iMTkuMDMwMDAxIiBoZWlnaHQ9IjExLjQ4Ii8+JiN4YTsmI3hhOzxyZWN0IGlkPSJyZWN0NjQxMzIiIHg9IjI4LjM5OTk5NCIgeT0iMzIuMDIiIHN0eWxlPSJmaWxsOiNmY2QxMTYiIHdpZHRoPSIxOS4wMzAwMDEiIGhlaWdodD0iMTEuNDgiLz4mI3hhOyYjeGE7PHJlY3QgaWQ9InJlY3Q2NDE0MCIgeD0iNTEuMDUwMDAzIiB5PSIzMi4wMiIgc3R5bGU9ImZpbGw6I2ZjZDExNiIgd2lkdGg9IjE5LjAzMDAwMSIgaGVpZ2h0PSIxMS40OCIvPiYjeGE7JiN4YTs8cmVjdCBpZD0icmVjdDY0MTQ4IiB4PSI1MS4wNTAwMDMiIHk9IjE2LjQ1OTk5OSIgc3R5bGU9ImZpbGw6I2ZmZmZmZiIgd2lkdGg9IjE5LjAzMDAwMSIgaGVpZ2h0PSIxMS40OCIvPiYjeGE7JiN4YTs8cmVjdCBpZD0icmVjdDY0MTU2IiB4PSI1LjczOTk5NzkiIHk9IjE2LjQ1OTk5OSIgc3R5bGU9ImZpbGw6I2ZmZmZmZiIgd2lkdGg9IjE5LjAzMDAwMSIgaGVpZ2h0PSIxMS40OCIvPiYjeGE7JiN4YTs8cmVjdCBpZD0icmVjdDY0MTY0IiB4PSI1LjczOTk5NzkiIHk9IjMyLjAyIiBzdHlsZT0iZmlsbDojZmZmZmZmIiB3aWR0aD0iMTkuMDMwMDAxIiBoZWlnaHQ9IjExLjQ4Ii8+JiN4YTsmI3hhOzxyZWN0IGlkPSJyZWN0NjQxNzIiIHg9IjUuNzM5OTk3OSIgeT0iNDcuNDMiIHN0eWxlPSJmaWxsOiNmY2QxMTYiIHdpZHRoPSIxOS4wMzAwMDEiIGhlaWdodD0iMTEuNDgiLz4mI3hhOyYjeGE7PHJlY3QgaWQ9InJlY3Q2NDE4MCIgeD0iMjguMzk5OTk0IiB5PSI0Ny40MyIgc3R5bGU9ImZpbGw6I2ZjZDExNiIgd2lkdGg9IjE5LjAzMDAwMSIgaGVpZ2h0PSIxMS40OCIvPiYjeGE7JiN4YTs8cmVjdCBpZD0icmVjdDY0MTg4IiB4PSI1MS4wNTAwMDMiIHk9IjQ3LjQzIiBzdHlsZT0iZmlsbDojZmNkMTE2IiB3aWR0aD0iMTkuMDMwMDAxIiBoZWlnaHQ9IjExLjQ4Ii8+JiN4YTsmI3hhOzxwYXRoIGlkPSJwYXRoNjQxOTYiIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjAuMiIgZD0iTSAyLjg3LDAgQyAxLjUxLDAgMCwxLjM2IDAsMi44NyB2IDExLjE4IDQuOTggNDIuNDUgYyAwLDEuNTEgMS41MSwyLjg2IDIuODcsMi44NiBIIDYuMDQgTCA2NS44NiwwIFoiLz4mI3hhOzwvc3ZnPg==;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="1343.5" y="583.95" width="58" height="49" as="geometry" />
@@ -35,9 +32,6 @@
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-75" value="&lt;span&gt;L&#39;intégralité de l&#39;écosystème est déployé au sein du réseau MVO sur&amp;nbsp; Microsoft Azure&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="706" y="362.45" width="210" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-95" value="&lt;span&gt;Les relations avec la base de données de production se déroule dans le cadre d&#39;un virtual Private Network qui assure une encapsulation des données de production sur Azure. Ils&amp;nbsp;&lt;/span&gt;qui permettent de gérer granulairement l&#39;accès aux ressources" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="-539.5" y="460.5" width="449" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-97" value="&lt;span&gt;Le Storage account sert au taitement des fichiers fournis par Elsan dans le cadre des exports Sigems et Timewise, il permet de processer les fichiers pour les importer en base de données.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="1041.5" y="441.2" width="360" height="74" as="geometry" />
@@ -203,9 +197,6 @@
         <mxCell id="oSTg5xwtnezDUg6IkT8Y-3" value="Les fichiers sont téléchargés dans l&#39;écosystème Microsoft Azure par les routine automatisées des CRON JOBS afin de pouvoir être traités et injectés dans la base de données." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="-567.78" y="1030" width="368" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oSTg5xwtnezDUg6IkT8Y-4" value="L&#39;upload des données depuis Optim se fait directement par un export des nouvelles lignes de la base de données dans le cadre d&#39;un VPN afin de maintenir l&#39;application LOGIBOP à jour. La connexion se fait en SSL" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="-469.28" y="614.63" width="269.5" height="106.5" as="geometry" />
-        </mxCell>
         <mxCell id="oSTg5xwtnezDUg6IkT8Y-7" value="WRAPTOR est déjà en place au sein du PSS et ne nécessite pas de modifications si ce n&#39;est le paramétrage des exports" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="-1830" y="530" width="320" height="54.5" as="geometry" />
         </mxCell>
@@ -228,12 +219,15 @@
           <mxGeometry x="125.35461553668908" y="41.95371122210516" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q-r5WbzmVcZyMv6zKtho-24" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-460" y="530.001719745223" width="117.58000000000004" height="40" as="geometry" />
+          <mxGeometry x="-240" y="489.701719745223" width="117.58000000000004" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#82b366;" parent="Q-r5WbzmVcZyMv6zKtho-24" vertex="1">
+        <mxCell id="MZWjTS4qYipJkNnxsriv-22" value="" style="group" vertex="1" connectable="0" parent="Q-r5WbzmVcZyMv6zKtho-24">
+          <mxGeometry x="-32.21" y="-16.48" width="117.58" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#82b366;" parent="MZWjTS4qYipJkNnxsriv-22" vertex="1">
           <mxGeometry y="6.558280254776946" width="117.58" height="26.89" as="geometry" />
         </mxCell>
-        <mxCell id="Q-r5WbzmVcZyMv6zKtho-26" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;STATUS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" parent="Q-r5WbzmVcZyMv6zKtho-24" vertex="1">
+        <mxCell id="Q-r5WbzmVcZyMv6zKtho-26" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;STATUS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" parent="MZWjTS4qYipJkNnxsriv-22" vertex="1">
           <mxGeometry x="8.785107692307747" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q-r5WbzmVcZyMv6zKtho-27" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -451,6 +445,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="685.07" as="sourcePoint" />
             <mxPoint x="550" y="685.3510000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIlqXNv4PA9Dnh1hxRCn-95" value="&lt;span&gt;Les relations avec la base de données de production se déroule dans le cadre d&#39;un virtual Private Network qui assure une encapsulation des données de production sur Azure. Ils&amp;nbsp;&lt;/span&gt;qui permettent de gérer granulairement l&#39;accès aux ressources" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="-421.21" y="516.72" width="449" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oSTg5xwtnezDUg6IkT8Y-4" value="L&#39;upload des données depuis Optim se fait directement par un export des nouvelles lignes de la base de données dans le cadre d&#39;un VPN afin de maintenir l&#39;application LOGIBOP à jour. La connexion se fait en SSL" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" parent="1" vertex="1">
+          <mxGeometry x="-421.21" y="596.22" width="451.21" height="58.55" as="geometry" />
+        </mxCell>
+        <mxCell id="MZWjTS4qYipJkNnxsriv-20" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-249.99999999999997" y="654.77" width="75" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="MZWjTS4qYipJkNnxsriv-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=266.15384615384613;endSize=54.44615384615385;exitX=1.001;exitY=0.706;exitDx=0;exitDy=0;exitPerimeter=0;endWidth=40.65088757396451;startArrow=block;startSize=48.84615384615385;startWidth=40.65088757396451;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-558.9200000000005" y="600" as="sourcePoint" />
+            <mxPoint x="138.07999999999998" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
