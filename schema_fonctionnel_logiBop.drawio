@@ -294,7 +294,7 @@
           <mxGeometry height="72" width="380" x="-60" y="440" as="geometry" />
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-75" parent="1" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontColor=#46495D;" value="&lt;span&gt;L&#39;intégralité de l&#39;écosystème est déployé au sein du réseau MVO sur&amp;nbsp; Microsoft Azure&lt;/span&gt;" vertex="1">
-          <mxGeometry height="58.59694249474101" width="237.73584905660374" x="-70" y="342.17" as="geometry" />
+          <mxGeometry height="39.23" width="399.44" x="-70" y="367.07" as="geometry" />
         </mxCell>
         <mxCell id="JlcOlSUOv72aKDt4cfFE-29" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;MICROSOFT AZURE ECOSYSTEM&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="350" x="-69.19137466307278" y="406.29573636306833" as="geometry" />
