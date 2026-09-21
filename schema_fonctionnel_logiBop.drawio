@@ -24,7 +24,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JlcOlSUOv72aKDt4cfFE-38" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="290" width="530" x="-1200" y="1210" as="geometry" />
+          <mxGeometry height="290" width="530" x="-1240" y="1096" as="geometry" />
         </mxCell>
         <mxCell id="JlcOlSUOv72aKDt4cfFE-33" parent="JlcOlSUOv72aKDt4cfFE-38" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="300" width="530" y="-10" as="geometry" />
